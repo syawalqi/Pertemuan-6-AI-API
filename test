@@ -5,3 +5,6 @@ membuat index.js
 buat folder public, buat index.html
 index.js konfigurasi agar membuka file index.html
 membuat method post create api di index.js
+membuat api nya masuk ke database, buat database dan teble bebas
+npm install mysql2
+konfigurasi index.js
